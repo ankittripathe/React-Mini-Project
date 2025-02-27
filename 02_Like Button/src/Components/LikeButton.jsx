@@ -12,7 +12,7 @@ const LikeButton = () => {
     setIsLiked(!isLiked);
   };
 
-  const styleSet = {color : 'red'}
+  const styleSet = { color: "red" };
 
   return (
     <div>
