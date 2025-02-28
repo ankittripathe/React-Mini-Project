@@ -32,3 +32,7 @@ nav ul {
 nav .logo{
   margin-top: 10px;
 }
+
+nav ul li{
+  font-size: 18px;
+}

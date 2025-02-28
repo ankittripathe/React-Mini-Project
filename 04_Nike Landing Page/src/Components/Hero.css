@@ -1,5 +1,4 @@
 .hero-content {
-  /* margin-right: 20px; */
   margin-top: 50px;
   display: flex;
   flex-direction: column;
@@ -48,6 +47,7 @@
 
 .shopping p {
   font-size: 14px;
+  margin-top: 5px;
 }
 
 .brand-icons {

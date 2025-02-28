@@ -8,7 +8,7 @@ const Hero = () => {
         <h1>Your Feet Derserve The Best</h1>
         <p>
           Your Feet Derserve The Best And We're Here to Help You With Our Shoes.
-          Your Feet Derserve The Best And We're Here to Help You With Our Shoes.
+          Your journey starts with the right pair
         </p>
 
         <div className="hero-btn">
